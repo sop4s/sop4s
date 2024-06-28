@@ -1,9 +1,10 @@
-<h2 align="left">Hi</h2>
+<h2 align="center">Hi</h2>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -11,10 +12,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
 </div>
-
-###
-
-<img align="right" height="145" src="https://preview.redd.it/se-cayo-el-porton-v0-wlwp1lkl1xfa1.jpg?auto=webp&s=1c19676a8b3c43121bf5b06afa1a7363e428d4f0"  />
 
 ###
 
